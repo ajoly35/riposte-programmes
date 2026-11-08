@@ -1,0 +1,9 @@
+title: "Riposte des programmes"
+description: "Les propositions des programmes du RN et de LFI, une par jour, avec trois ripostes prêtes à tourner en vidéo verticale."
+lang: fr
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+exclude: [scripts, README.md, ROUTINE.md, contributeurs.txt, traites.txt]

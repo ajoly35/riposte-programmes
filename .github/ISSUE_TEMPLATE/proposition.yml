@@ -1,0 +1,18 @@
+name: Proposer une proposition à analyser
+description: Envoyer une mesure du programme du RN ou de LFI (lien ou diapositive). Elle est vérifiée sur le document d'origine, puis ajoutée avec trois ripostes.
+title: "Proposition : "
+labels: ["proposition"]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Lien
+      description: Programme, diapositive, vidéo, tweet ou article qui contient la mesure.
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: Ce qui pose problème (facultatif)
+      description: Une ligne suffit, par exemple le chiffre contesté, la page ou le minutage de la vidéo.
