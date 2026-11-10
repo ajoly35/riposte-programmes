@@ -1,5 +1,38 @@
 Les propositions des programmes du RN et de LFI, du plus récent au plus ancien. Chaque chiffre est vérifié sur le document d'origine. Chaque entrée donne trois ripostes, écrites pour une vidéo verticale de 30 secondes.
 
+### LFI : le Smic à 1 700 euros net « immédiatement », soit 15 % de plus d'un coup, sans coût ni financement écrits
+
+*LFI · Salaires · 10 novembre 2026 · [L'Avenir en commun, partie 2, chapitre 2 « Partager les richesses »](https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2/)*
+
+**Ce qu'ils proposent.** Le livre-programme de LFI, en librairie depuis le 6 novembre 2026, dit en mesure clé : « Porter immédiatement le SMIC mensuel à 1 700 euros net et indexer les salaires sur l'inflation dans le privé comme dans la fonction publique » (partie 2, chapitre 2, « Augmenter les salaires »). La même page répète : « Augmenter immédiatement le SMIC à 1 700 euros net mensuel et les minima sociaux ».
+
+**Ce que disent les chiffres.** Le Smic net est de 1 477,93 € par mois pour 35 heures, à titre indicatif, depuis la hausse du 1er juin 2026 (service-public.gouv.fr). Passer à 1 700 € net, c'est 222 € de plus par mois, soit une hausse d'environ 15 % d'un coup. Le chapitre ne donne ni le coût de la mesure, ni son financement, ni d'aide pour les petites entreprises. En 2024, le Smic valait déjà 62,5 % du salaire médian, le ratio le plus élevé parmi les pays européens (Groupe d'experts sur le Smic, novembre 2025, p. 7). Les allègements de cotisations sur les bas salaires coûtaient près de 75 Md€ en 2024, environ 2,5 % du PIB (même rapport, p. 7).
+
+**Riposte 1 : le chiffre.** *1 700 € net, c'est 15 % de hausse d'un coup, sans prix ni financement écrits.*
+- **Accroche (0 à 3 s).** Le Smic à 1 700 euros net, demain matin. Qui paie ?
+- **Corps (3 à 24 s).** Aujourd'hui, le Smic net est d'environ 1 478 euros. LFI veut le porter à 1 700, immédiatement. C'est 15 % de plus d'un coup. Leur programme ne dit ni combien ça coûte, ni comment le payer. Rien non plus pour les petites entreprises.
+- **Chute (24 à 30 s).** Mieux payer le travail, oui. Alors posons la question : qui paie, et l'emploi tient-il ?
+- **À l'écran.** « Smic : + 15 % d'un coup » ; en bas : LFI, L'Avenir en commun, partie 2, chapitre 2 ; service-public.gouv.fr.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; une fiche de paie tenue à la main, le net entouré.
+
+**Riposte 2 : l'exemple.** *L'Espagne a relevé son salaire minimum de 22 % d'un coup en 2019.*
+- **Accroche (0 à 3 s).** Une hausse du salaire minimum d'un coup ? L'Espagne l'a fait.
+- **Corps (3 à 24 s).** En 2019, l'Espagne a relevé son salaire minimum de 22 % en une fois. Les ménages concernés ont gagné en revenu, et la pauvreté a reculé. Mais des emplois ont disparu dans les entreprises les plus exposées. Les jeunes, les femmes et les précaires ont été les premiers touchés.
+- **Chute (24 à 30 s).** Augmenter les bas salaires, oui. Mais sans que les plus fragiles le paient en emploi.
+- **À l'écran.** « Espagne 2019 : + 22 % d'un coup » ; en bas : Groupe d'experts sur le Smic, novembre 2025, p. 28.
+- **Plan.** Vertical 9:16, plan poitrine, sous-titres ; une carte de l'Europe avec l'Espagne coloriée.
+
+**Riposte 3 : la meilleure alternative.** *À vérifier avec le programme. Piste publique : qu'une augmentation au-dessus du Smic profite vraiment au salarié.*
+- **Accroche (0 à 3 s).** Pourquoi tant de salariés restent-ils coincés au Smic ?
+- **Corps (3 à 24 s).** Entre 1,2 et 2 Smic, une augmentation fond en route. Cotisations, prime d'activité en moins, impôt : sur 100 euros payés par l'employeur, le salarié en garde entre 20 et 25. Le Groupe d'experts sur le Smic recommande de corriger ce système pour que chaque augmentation compte.
+- **Chute (24 à 30 s).** La bonne question : comment faire pour qu'une augmentation arrive vraiment sur la fiche de paie ?
+- **À l'écran.** « 100 € d'augmentation, 20 à 25 € gardés » ; en bas : Groupe d'experts sur le Smic, novembre 2025, p. 7.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra ; un billet de 100 euros découpé, un petit morceau gardé en main.
+
+**Position d'Édouard.** À vérifier : aucune position publique sur le Smic trouvée pendant cette veille ; l'alternative de la riposte 3 est à valider avec le programme avant tournage.
+
+**Sources.** [LFI, L'Avenir en commun, partie 2, chapitre 2](https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2/) ; [Service-public.gouv.fr, montant du Smic, vérifié le 1er juin 2026](https://www.service-public.gouv.fr/particuliers/vosdroits/F2300) ; [Groupe d'experts sur le Smic, rapport du 25 novembre 2025, p. 5, 7 et 28](https://www.vie-publique.fr/files/rapport/pdf/301429_0.pdf) ; [L'Essentiel de l'Éco, 8 novembre 2026](https://lessentieldeleco.fr/9345-ce-que-contient-vraiment-le-programme-de-melenchon-pour-2027/)
+
 ### RN : la retraite à 62 ans apparaît comme une économie de 5,5 Md€ dans le tableau du RN
 
 *RN · Retraites · 8 novembre 2026 · [Dossier de presse du RN, diapositives 14, 17, 25 et 26](https://rassemblementnational.fr/videos/marine-le-pen-presente-la-trajectoire-financiere-de-son-quinquennat)*
