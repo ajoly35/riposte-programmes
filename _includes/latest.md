@@ -1,5 +1,38 @@
 Les propositions des programmes du RN et de LFI, du plus récent au plus ancien. Chaque chiffre est vérifié sur le document d'origine. Chaque entrée donne trois ripostes, écrites pour une vidéo verticale de 30 secondes.
 
+### LFI : supprimer la flat tax doit rapporter 9 Md€, mais la base taxée a déjà fondu une fois, en 2013
+
+*LFI · Impôts · 11 novembre 2026 · [L'Avenir en commun, partie 2, chapitre 2 « Faire la révolution fiscale » ; contre-budget du 14 octobre 2026, p. 13](https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2/)*
+
+**Ce qu'ils proposent.** Le livre-programme de LFI, paru le 6 novembre 2026, veut « Supprimer la flat tax et imposer les revenus du capital comme ceux du travail » (partie 2, chapitre 2). Le contre-budget du 14 octobre 2026 en attend 9 milliards d'euros : « suppression de la flat tax pour que le capital ne soit pas moins imposé que le travail (9 milliards d'euros) » (p. 13).
+
+**Ce que disent les chiffres.** Aujourd'hui, la flat tax (PFU) prélève 31,4 % sur les dividendes et intérêts de 2026, dont 18,6 % de prélèvements sociaux (service-public.gouv.fr, vérifié le 30 juin 2026). Le comité d'évaluation de France Stratégie note que les dividendes déclarés par les ménages sont passés d'environ 14 Md€ par an de 2013 à 2017 à un plateau d'environ 23 Md€ après 2018. Il juge que la flat tax « aurait été autofinancée les premières années » (rapport final, octobre 2023, p. 13). La hausse de 2018 est comparable à la chute de 2013, quand ces revenus ont été mis au barème de l'impôt sur le revenu (même page). Le contre-budget ne dit pas s'il tient compte de cet effet. À l'inverse, le comité n'a trouvé aucun effet de la flat tax sur l'investissement ni sur les salaires des entreprises concernées (p. 19). Et 1 % des foyers déclarent 96 % des dividendes (p. 16).
+
+**Riposte 1 : le chiffre.** *9 Md€ attendus d'une réforme qui, selon l'évaluation officielle, s'était payée toute seule.*
+- **Accroche (0 à 3 s).** Supprimer la flat tax rapporterait 9 milliards. Vraiment ?
+- **Corps (3 à 24 s).** LFI inscrit 9 milliards dans son budget. Mais quand la flat tax est arrivée, en 2018, les dividendes déclarés ont bondi. Le comité d'évaluation a jugé qu'elle s'était autofinancée les premières années. Si on revient en arrière, une partie de ces dividendes disparaît des déclarations.
+- **Chute (24 à 30 s).** Taxer plus le capital, pourquoi pas. Mais il faut chiffrer ce qui rentre vraiment, pas ce qu'on espère.
+- **À l'écran.** « 9 milliards attendus. Combien encaissés ? » ; en bas : LFI, contre-budget p. 13 ; France Stratégie, octobre 2023, p. 13.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; une tirelire tenue à la main, à moitié vide.
+
+**Riposte 2 : l'exemple.** *En 2013, la France a déjà taxé les dividendes comme les salaires : les dividendes déclarés ont chuté.*
+- **Accroche (0 à 3 s).** Taxer les dividendes comme les salaires ? La France l'a déjà fait.
+- **Corps (3 à 24 s).** C'était en 2013. Les dividendes déclarés par les ménages ont chuté aussitôt. Surtout dans les entreprises familiales, qui peuvent garder l'argent dans la société. Avec la flat tax, les dividendes sont remontés à environ 23 milliards par an.
+- **Chute (24 à 30 s).** On a déjà fait l'expérience. Avant de la refaire, regardons ce qu'elle a vraiment rapporté.
+- **À l'écran.** « 2013 : dividendes en chute » ; en bas : France Stratégie, rapport final, octobre 2023, p. 13 et 14.
+- **Plan.** Vertical 9:16, plan poitrine, sous-titres ; un calendrier ouvert sur 2013, une flèche qui descend.
+
+**Riposte 3 : la meilleure alternative.** *À vérifier avec le programme. Piste publique : viser les très gros dividendes avec un taux qui rapporte vraiment.*
+- **Accroche (0 à 3 s).** Qui touche vraiment les dividendes en France ?
+- **Corps (3 à 24 s).** 1 % des foyers déclarent 96 % des dividendes. Le débat n'est donc pas celui du petit épargnant. La vraie question est le bon taux. Trop bas, il fait un cadeau. Trop haut, l'argent reste dans les sociétés et rien ne rentre.
+- **Chute (24 à 30 s).** La bonne question : quel taux fait payer les plus gros sans faire fondre la recette ?
+- **À l'écran.** « 1 % des foyers, 96 % des dividendes » ; en bas : France Stratégie, rapport final, octobre 2023, p. 16.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra ; une part de gâteau énorme à côté de miettes.
+
+**Position d'Édouard.** À vérifier : aucune position publique sur la flat tax trouvée pendant cette veille ; l'alternative de la riposte 3 est à valider avec le programme avant tournage.
+
+**Sources.** [LFI, L'Avenir en commun, partie 2, chapitre 2](https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2/) ; [LFI, contre-budget du 14 octobre 2026, p. 13](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf) ; [Service-public.gouv.fr, prélèvements sociaux sur les revenus du patrimoine, vérifié le 30 juin 2026](https://www.service-public.gouv.fr/particuliers/vosdroits/F2329) ; [France Stratégie, Comité d'évaluation des réformes de la fiscalité du capital, rapport final, avis du comité, octobre 2023, p. 13, 14, 16 et 19](https://www.strategie-plan.gouv.fr/files/files/Publications/Rapport/fs-2023-rapport-isf-quatrieme_rapport_complet_17octobre_avis_0.pdf)
+
 ### LFI : le Smic à 1 700 euros net « immédiatement », soit 15 % de plus d'un coup, sans coût ni financement écrits
 
 *LFI · Salaires · 10 novembre 2026 · [L'Avenir en commun, partie 2, chapitre 2 « Partager les richesses »](https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2/)*
