@@ -1,5 +1,38 @@
 Les propositions des programmes du RN et de LFI, du plus récent au plus ancien. Chaque chiffre est vérifié sur le document d'origine. Chaque entrée donne trois ripostes, écrites pour une vidéo verticale de 30 secondes.
 
+### LFI : un ISF « renforcé » qui doit rapporter 10 Md€, plus du double du dernier ISF, sans taux ni seuil écrits
+
+*LFI · Impôts · 12 novembre 2026 · [L'Avenir en commun, partie 2, chapitre 2 « Faire la révolution fiscale » ; contre-budget du 14 octobre 2026, p. 13](https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2/)*
+
+**Ce qu'ils proposent.** Le livre-programme de LFI, paru le 6 novembre 2026, veut « Rétablir et renforcer l'impôt de solidarité sur la fortune (ISF) incluant un volet climatique visant à taxer les gros pollueurs » (partie 2, chapitre 2). Le contre-budget du 14 octobre 2026 en attend 10 milliards d'euros : « rétablissement d'un impôt sur la fortune renforcé (10 milliards d'euros) » (p. 13).
+
+**Ce que disent les chiffres.** En 2017, sa dernière année, l'ISF a rapporté 4,2 Md€ (France Stratégie, comité d'évaluation des réformes de la fiscalité du capital, rapport final, octobre 2023, p. 12). Le comité estime que, sans la réforme, il aurait rapporté environ 6,3 Md€ en 2022 (p. 13). Les 10 Md€ attendus font donc plus du double de 2017, et environ 60 % de plus que l'estimation pour 2022. Ni le livre ni le contre-budget ne donnent le taux, le seuil ou l'assiette du nouvel impôt. Ils ne disent pas non plus si les recettes de l'impôt sur la fortune immobilière (IFI), qu'il remplacerait, sont déduites : 1,83 Md€ en 2022 (p. 12). Du temps de l'ISF, 950 foyers redevables partaient à l'étranger chaque année en moyenne, pour 370 retours (2011 à 2016). Depuis l'IFI, les retours dépassent les départs : 380 contre 260 (2018 à 2021). Ce sont quelques centaines de foyers, sur environ 150 000 redevables (p. 13).
+
+**Riposte 1 : le chiffre.** *10 Md€ attendus, quand l'ISF rapportait 4,2 Md€ en 2017.*
+- **Accroche (0 à 3 s).** Rétablir l'ISF rapporterait 10 milliards. D'où vient ce chiffre ?
+- **Corps (3 à 24 s).** En 2017, sa dernière année, l'ISF a rapporté 4,2 milliards. LFI en attend 10, plus du double. Mais le programme ne donne ni le taux, ni le seuil. Impossible de vérifier le calcul.
+- **Chute (24 à 30 s).** Un impôt sérieux, c'est d'abord un barème écrit. La question à poser : qui paie, et à quel taux ?
+- **À l'écran.** « ISF 2017 : 4,2 Md€. LFI : 10 » ; en bas : LFI, contre-budget p. 13 ; France Stratégie, octobre 2023, p. 12.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; deux piles de pièces, l'une deux fois plus haute que l'autre.
+
+**Riposte 2 : l'exemple.** *Du temps de l'ISF, les départs de redevables dépassaient les retours ; depuis 2018, c'est l'inverse.*
+- **Accroche (0 à 3 s).** Avec l'ISF, plus de redevables partaient qu'il n'en revenait.
+- **Corps (3 à 24 s).** De 2011 à 2016, 950 foyers redevables partaient chaque année. Seuls 370 revenaient. Depuis 2018, avec l'impôt sur la fortune immobilière, les retours dépassent les départs. Ce sont quelques centaines de foyers. Mais chaque départ emporte une partie de la recette.
+- **Chute (24 à 30 s).** Un impôt sur la fortune se juge sur ce qu'il encaisse, pas sur ce qu'il affiche.
+- **À l'écran.** « 950 départs, 370 retours par an » ; en bas : France Stratégie, rapport final, octobre 2023, p. 13.
+- **Plan.** Vertical 9:16, plan poitrine, sous-titres ; une valise posée à côté de soi.
+
+**Riposte 3 : la meilleure alternative.** *À vérifier avec le programme. Piste publique : exiger le barème et la recette nette avant de voter le chiffre.*
+- **Accroche (0 à 3 s).** 10 milliards, mais combien en plus, vraiment ?
+- **Corps (3 à 24 s).** Le nouvel ISF remplacerait l'impôt sur la fortune immobilière. Celui-ci rapportait déjà 1,83 milliard en 2022. LFI ne dit pas s'il le déduit de ses 10 milliards. Ni quel taux, ni à partir de quel patrimoine.
+- **Chute (24 à 30 s).** La bonne question : quelle recette nette, avec quel barème, et combien de redevables restent en France ?
+- **À l'écran.** « 10 milliards bruts ou nets ? » ; en bas : LFI, contre-budget p. 13 ; France Stratégie, octobre 2023, p. 12.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra ; une calculatrice tenue à la main, le signe moins en évidence.
+
+**Position d'Édouard.** À vérifier : aucune position publique sur l'ISF trouvée dans une source primaire pendant cette veille ; l'alternative de la riposte 3 est à valider avec le programme avant tournage.
+
+**Sources.** [LFI, L'Avenir en commun, partie 2, chapitre 2](https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2/) ; [LFI, contre-budget du 14 octobre 2026, p. 13](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf) ; [France Stratégie, Comité d'évaluation des réformes de la fiscalité du capital, rapport final, avis du comité, octobre 2023, p. 12 et 13](https://www.strategie-plan.gouv.fr/files/files/Publications/Rapport/fs-2023-rapport-isf-quatrieme_rapport_complet_17octobre_avis_0.pdf)
+
 ### LFI : supprimer la flat tax doit rapporter 9 Md€, mais la base taxée a déjà fondu une fois, en 2013
 
 *LFI · Impôts · 11 novembre 2026 · [L'Avenir en commun, partie 2, chapitre 2 « Faire la révolution fiscale » ; contre-budget du 14 octobre 2026, p. 13](https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2/)*
