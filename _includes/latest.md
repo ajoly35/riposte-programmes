@@ -1,5 +1,38 @@
 Les propositions des programmes du RN et de LFI, du plus récent au plus ancien. Chaque chiffre est vérifié sur le document d'origine. Chaque entrée donne trois ripostes, écrites pour une vidéo verticale de 30 secondes.
 
+### LFI : 10 % de hausse pour les fonctionnaires chiffrés à 17 Md€, quand 3,5 % ont coûté 7,5 Md€ en 2022
+
+*LFI · Salaires · 13 novembre 2026 · [Contre-budget de LFI, 14 octobre 2026, p. 8 et 12](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf)*
+
+**Ce qu'ils proposent.** Le contre-budget de LFI du 14 octobre 2026 veut augmenter « de 10% les fonctionnaires, dont le point d'indice a été gelé huit années sur dix durant les deux quinquennats d'Emmanuel Macron (17 milliards d'euros) » (p. 8). Ces 17 Md€ entrent dans les 37,5 Md€ du poste « Relancer l'activité par les revenus des classes populaires » (p. 12). La page de LFI « Comprendre le budget 2027 », publiée le 12 novembre 2026, reprend le même chiffre.
+
+**Ce que disent les chiffres.** En juillet 2022, le gouvernement a relevé le point d'indice de 3,5 %, pour toute la fonction publique. Son communiqué donne « un coût total de 7,5 milliards d'euros » (ministère de la Transformation et de la Fonction publiques, 7 juillet 2022). Cela fait environ 2,1 Md€ par point de hausse, au niveau des salaires de 2022. À ce compte, 10 % coûtent environ 21 Md€, soit 4 Md€ de plus que les 17 Md€ inscrits. Le contre-budget ne dit pas si ses 17 Md€ sont un coût brut ou un coût net des impôts et cotisations qui reviennent aux caisses publiques. La hausse de 2022 était présentée comme « la plus importante depuis 37 ans ». Celle de LFI serait près de trois fois plus forte.
+
+**Riposte 1 : le chiffre.** *Au prix de 2022, 10 % de hausse coûtent environ 21 Md€, pas 17.*
+- **Accroche (0 à 3 s).** 10 % de plus pour les fonctionnaires, pour 17 milliards. Le compte est-il bon ?
+- **Corps (3 à 24 s).** En 2022, le gouvernement a augmenté le point d'indice de 3,5 %. Coût annoncé : 7,5 milliards. Faites la règle de trois : 10 %, c'est environ 21 milliards. Il manque 4 milliards dans le tableau de LFI.
+- **Chute (24 à 30 s).** Mieux payer les agents publics, c'est un vrai sujet. Raison de plus pour en écrire le vrai prix.
+- **À l'écran.** « 10 % : 17 ou 21 milliards ? » ; en bas : LFI, contre-budget p. 8 ; communiqué du gouvernement, 7 juillet 2022.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; une calculatrice tenue à la main.
+
+**Riposte 2 : l'exemple.** *La hausse de 2022, « la plus importante depuis 37 ans », était de 3,5 % ; LFI propose près de trois fois plus.*
+- **Accroche (0 à 3 s).** La plus forte hausse des fonctionnaires depuis 37 ans ? 3,5 %.
+- **Corps (3 à 24 s).** C'était en juillet 2022, en pleine inflation. Elle a coûté 7,5 milliards. LFI propose 10 %, près de trois fois plus. Et pour moins cher que la règle de trois.
+- **Chute (24 à 30 s).** Avant de tripler la mise, la question à poser : combien, et payé par quoi ?
+- **À l'écran.** « 2022 : 3,5 %. LFI : 10 % » ; en bas : communiqué du gouvernement, 7 juillet 2022 ; LFI, contre-budget p. 8.
+- **Plan.** Vertical 9:16, plan poitrine, sous-titres ; trois marches dessinées, la première seule coloriée.
+
+**Riposte 3 : la meilleure alternative.** *À vérifier avec le programme. Piste publique : exiger le coût brut et le coût net avant de voter le chiffre.*
+- **Accroche (0 à 3 s).** 17 milliards : brut ou net ?
+- **Corps (3 à 24 s).** Quand un fonctionnaire est augmenté, une partie revient à l'État en impôts et cotisations. LFI ne dit pas si ses 17 milliards en tiennent compte. Au prix de 2022, le coût brut tourne autour de 21 milliards. L'écart pèse sur le déficit.
+- **Chute (24 à 30 s).** Un chiffrage sérieux montre les deux lignes : ce qu'on paie, et ce qui revient.
+- **À l'écran.** « Brut ou net ? » ; en bas : LFI, contre-budget p. 8 ; communiqué du gouvernement, 7 juillet 2022.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra ; une fiche de paie tenue à la main, les lignes brut et net surlignées.
+
+**Position d'Édouard.** À vérifier : aucune position publique sur le point d'indice trouvée dans une source primaire pendant cette veille ; l'alternative de la riposte 3 est à valider avec le programme avant tournage.
+
+**Sources.** [LFI, contre-budget du 14 octobre 2026, p. 8 et 12](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf) ; [LFI, « Comprendre le budget 2027 », 12 novembre 2026](https://lafranceinsoumise.fr/2026/11/12/comprendre-le-budget-2027) ; [Ministère de la Transformation et de la Fonction publiques, communiqué de presse, 7 juillet 2022](https://www.transformation.gouv.fr/files/presse/CP_point_indice_20220707.pdf)
+
 ### LFI : un ISF « renforcé » qui doit rapporter 10 Md€, plus du double du dernier ISF, sans taux ni seuil écrits
 
 *LFI · Impôts · 12 novembre 2026 · [L'Avenir en commun, partie 2, chapitre 2 « Faire la révolution fiscale » ; contre-budget du 14 octobre 2026, p. 13](https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2/)*
