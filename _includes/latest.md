@@ -1,5 +1,38 @@
 Les propositions des programmes du RN et de LFI, du plus récent au plus ancien. Chaque chiffre est vérifié sur le document d'origine. Chaque entrée donne trois ripostes, écrites pour une vidéo verticale de 30 secondes.
 
+### LFI : 20 Md€ de plus sur les successions dès la première année, plus que tout ce qu'elles rapportent aujourd'hui
+
+*LFI · Impôts · 16 novembre 2026 · [Contre-budget de LFI, 14 octobre 2026, p. 13 et 14 ; L'Avenir en commun, partie 2, chapitre 2](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf)*
+
+**Ce qu'ils proposent.** Le contre-budget de LFI du 14 octobre 2026 prévoit « une réforme des droits de succession (20 milliards d'euros la première année) » (p. 13 et 14). Le livre-programme, paru le 6 novembre 2026, veut « Augmenter les droits de succession sur les plus hauts patrimoines », « créer un héritage maximal de 12 millions d'euros » et « Exonérer de droits de succession les héritages inférieurs à 150 000 euros » (partie 2, chapitre 2).
+
+**Ce que disent les chiffres.** En 2023, les droits de succession ont rapporté 16,6 Md€ au total (Cour des comptes, « Les droits de succession », septembre 2024, p. 7 et 8). Les 20 Md€ de LFI s'ajoutent à ce total : la recette passerait à environ 36,6 Md€, soit plus du double. De 2011 à 2023, la recette est passée de 7,0 à 16,6 Md€, soit 9,6 Md€ de plus en douze ans (p. 8). LFI en demande deux fois plus, en un an. La France est déjà au premier rang de l'OCDE pour le poids des donations et successions dans le PIB : 0,74 % (p. 8). Le contre-budget ne donne ni barème, ni assiette, ni le coût de l'exonération sous 150 000 euros, qui réduit la recette.
+
+**Riposte 1 : le chiffre.** *LFI veut 20 Md€ de plus par an, quand les successions rapportent 16,6 Md€ en tout.*
+- **Accroche (0 à 3 s).** LFI veut tirer 20 milliards de plus des héritages. Dès la première année.
+- **Corps (3 à 24 s).** Aujourd'hui, les droits de succession rapportent 16,6 milliards par an. Tous héritages confondus. LFI veut plus que doubler la recette. Et en exonérant les petits héritages, donc avec moins de payeurs.
+- **Chute (24 à 30 s).** La question à poser : quel barème, et qui paie ces 20 milliards ?
+- **À l'écran.** « 16,6 Md€ aujourd'hui. +20 Md€ ? » ; en bas : Cour des comptes, septembre 2024, p. 8 ; LFI, contre-budget p. 14.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; deux enveloppes posées sur une table, la seconde plus épaisse.
+
+**Riposte 2 : l'exemple.** *En douze ans, la recette a gagné 9,6 Md€ ; LFI en veut deux fois plus en un an.*
+- **Accroche (0 à 3 s).** Les droits de succession ont déjà plus que doublé en douze ans.
+- **Corps (3 à 24 s).** En 2011, ils rapportaient 7 milliards. En 2023, 16,6 milliards. Surtout parce que les patrimoines, logements en tête, ont pris de la valeur. LFI veut 20 milliards de plus, en une seule année.
+- **Chute (24 à 30 s).** Une recette se construit sur une base connue. Montrez le calcul avant de compter l'argent.
+- **À l'écran.** « 2011 : 7 Md€. 2023 : 16,6 Md€ » ; en bas : Cour des comptes, « Les droits de succession », septembre 2024, p. 8.
+- **Plan.** Vertical 9:16, plan poitrine, sous-titres ; une frise tracée au feutre sur un tableau blanc.
+
+**Riposte 3 : la meilleure alternative.** *À vérifier avec le programme. Piste publique : la Cour des comptes propose de resserrer les niches et de mieux connaître les patrimoines transmis, à recette constante.*
+- **Accroche (0 à 3 s).** Avant de taxer plus les héritages, il faut savoir ce qu'on taxe.
+- **Corps (3 à 24 s).** La Cour des comptes l'écrit en 2024. Des niches réduisent fortement la base taxée : transmission d'entreprises, assurance-vie. Leur coût est mal connu. Elle propose de les resserrer, sans hausse de la recette totale.
+- **Chute (24 à 30 s).** D'abord mesurer, puis corriger les niches. C'est plus juste, et c'est vérifiable.
+- **À l'écran.** « D'abord mesurer, puis réformer » ; en bas : Cour des comptes, « Les droits de succession », septembre 2024, p. 7 et 8.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra ; un mètre ruban déroulé entre les mains.
+
+**Position d'Édouard.** À vérifier : aucune position publique sur les droits de succession trouvée dans une source primaire pendant cette veille ; l'alternative de la riposte 3 est à valider avec le programme avant tournage.
+
+**Sources.** [LFI, contre-budget du 14 octobre 2026, p. 13 et 14](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf) ; [LFI, L'Avenir en commun, partie 2, chapitre 2, 6 novembre 2026](https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2/) ; [Cour des comptes, « Les droits de succession », septembre 2024, p. 7 et 8](https://www.ccomptes.fr/sites/default/files/2024-09/20240925-Droits-de-succession%C2%A0_1.pdf)
+
 ### LFI : 10 % de hausse pour les fonctionnaires chiffrés à 17 Md€, quand 3,5 % ont coûté 7,5 Md€ en 2022
 
 *LFI · Salaires · 13 novembre 2026 · [Contre-budget de LFI, 14 octobre 2026, p. 8 et 12](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf)*
