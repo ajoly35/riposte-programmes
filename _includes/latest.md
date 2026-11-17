@@ -1,5 +1,38 @@
 Les propositions des programmes du RN et de LFI, du plus récent au plus ancien. Chaque chiffre est vérifié sur le document d'origine. Chaque entrée donne trois ripostes, écrites pour une vidéo verticale de 30 secondes.
 
+### LFI : 1 337 euros par mois garantis à tous, chiffrés pour les seuls jeunes à 9,5 Md€
+
+*LFI · Dépenses sociales · 17 novembre 2026 · [Plan « Abolir la pauvreté », 16 novembre 2026, p. 17 et 18](https://melenchon2027.fr/wp-content/uploads/2026/11/PLAN-ABOLIR-LA-PAUVRETE.pdf)*
+
+**Ce qu'ils proposent.** Le plan publié le 16 novembre 2026 crée « une garantie d'autonomie », « en commençant par les jeunes de moins de 25 ans », pour « permettre à toute personne résidant en France de disposer d'un revenu au moins égal au seuil de pauvreté actuel, soit 1 337 euros par mois pour une personne seule » (p. 17). « Une personne seule qui perçoit aujourd'hui le RSA voit son allocation remplacée par la garantie d'autonomie et dispose de 1 337 euros par mois » (p. 18). Le versement se fait « sans contrepartie » (p. 18).
+
+**Ce que disent les chiffres.** Le seuil de 1 337 euros est exact : c'est le seuil de pauvreté de 2024, à 60 % du niveau de vie médian (Insee Première n° 2117, juillet 2026). Le RSA d'une personne seule est aujourd'hui de 651,69 euros par mois (Service-Public.fr, vérifié le 1er avril 2026). La garantie le porte à 1 337 euros, soit 685 euros de plus par mois : plus du double. Le Smic net à temps plein est de 1 477,93 euros (Service-Public.fr, vérifié le 1er juin 2026) : l'écart avec un revenu sans emploi tomberait à 141 euros, ou 363 euros avec le Smic à 1 700 euros net que LFI promet aussi. Le contre-budget de LFI chiffre la seule version pour les jeunes : « 9,5 milliards d'euros » (14 octobre 2026, p. 8). La version pour tous n'a pas de prix écrit. Or l'Insee compte 9,8 millions de personnes sous ce seuil en 2024, soit 15,4 % de la population, en France métropolitaine.
+
+**Riposte 1 : le chiffre.** *Le RSA d'une personne seule passerait de 651,69 à 1 337 euros : plus du double, sans coût écrit.*
+- **Accroche (0 à 3 s).** LFI veut doubler le RSA. Et au-delà.
+- **Corps (3 à 24 s).** Aujourd'hui, une personne seule au RSA touche 651 euros par mois. Avec LFI, elle toucherait 1 337 euros, sans contrepartie. LFI chiffre la mesure à 9,5 milliards pour les seuls jeunes. Pour tous les autres, le plan ne donne aucun chiffre.
+- **Chute (24 à 30 s).** Une promesse pour dix millions de personnes mérite un prix. Lequel ?
+- **À l'écran.** « 651 € → 1 337 €. Coût ? » ; en bas : Service-Public.fr, avril 2026 ; LFI, plan pauvreté p. 18.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; deux billets posés sur une table, puis un troisième ajouté.
+
+**Riposte 2 : l'exemple.** *À temps plein au Smic, on gagnerait 141 euros de plus que sans travailler.*
+- **Accroche (0 à 3 s).** Travailler à temps plein au Smic, ça rapporterait combien de plus ?
+- **Corps (3 à 24 s).** Le Smic net, c'est 1 478 euros par mois. La garantie de LFI, c'est 1 337 euros, sans emploi et sans contrepartie. L'écart tombe à 141 euros par mois. Même avec le Smic à 1 700 euros promis par LFI, il reste 363 euros.
+- **Chute (24 à 30 s).** Aider ceux qui n'ont rien, oui. Mais le travail doit toujours payer nettement plus.
+- **À l'écran.** « Smic : 1 478 €. Sans travail : 1 337 € » ; en bas : Service-Public.fr, juin 2026 ; LFI, plan pauvreté p. 17.
+- **Plan.** Vertical 9:16, plan poitrine, sous-titres ; deux fiches de paie tenues côte à côte.
+
+**Riposte 3 : la meilleure alternative.** *À vérifier avec le programme. La question à poser : combien coûte la garantie pour tous, et comment le travail reste-t-il plus payant ?*
+- **Accroche (0 à 3 s).** Lutter contre la pauvreté, tout le monde est d'accord. La question, c'est comment.
+- **Corps (3 à 24 s).** 9,8 millions de personnes vivent sous le seuil de pauvreté, selon l'Insee. C'est un record depuis 1996. Une bonne réponse dit trois choses : combien elle coûte, qui la paie, et comment elle ramène vers l'emploi. Le plan de LFI ne répond qu'à la première, et seulement pour les jeunes.
+- **Chute (24 à 30 s).** Sortir de la pauvreté durablement, c'est d'abord par le travail. Chiffrons-le.
+- **À l'écran.** « Coût · Qui paie · Retour à l'emploi » ; en bas : Insee Première n° 2117, juillet 2026.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra ; trois doigts levés pour les trois questions.
+
+**Position d'Édouard.** À vérifier : aucune position publique sur la garantie d'autonomie ou le niveau du RSA trouvée dans une source primaire pendant cette veille ; l'alternative de la riposte 3 est à valider avec le programme avant tournage.
+
+**Sources.** [LFI, plan « Abolir la pauvreté », 16 novembre 2026, p. 17 et 18](https://melenchon2027.fr/wp-content/uploads/2026/11/PLAN-ABOLIR-LA-PAUVRETE.pdf) ; [LFI, contre-budget du 14 octobre 2026, p. 8](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf) ; [Insee Première n° 2117, « Niveau de vie et pauvreté en 2024 », juillet 2026](https://www.insee.fr/fr/statistiques/fichier/9019316/ip2117.pdf) ; [Service-Public.fr, RSA, vérifié le 1er avril 2026](https://www.service-public.gouv.fr/particuliers/vosdroits/F19778) ; [Service-Public.fr, Smic, vérifié le 1er juin 2026](https://www.service-public.gouv.fr/particuliers/vosdroits/F2300)
+
 ### LFI : 20 Md€ de plus sur les successions dès la première année, plus que tout ce qu'elles rapportent aujourd'hui
 
 *LFI · Impôts · 16 novembre 2026 · [Contre-budget de LFI, 14 octobre 2026, p. 13 et 14 ; L'Avenir en commun, partie 2, chapitre 2](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf)*
