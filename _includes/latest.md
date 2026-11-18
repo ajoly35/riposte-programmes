@@ -1,5 +1,38 @@
 Les propositions des programmes du RN et de LFI, du plus récent au plus ancien. Chaque chiffre est vérifié sur le document d'origine. Chaque entrée donne trois ripostes, écrites pour une vidéo verticale de 30 secondes.
 
+### RN : une décote quatre fois plus lourde pour ceux à qui il manque des trimestres
+
+*RN · Retraites · 18 novembre 2026 · [Conférence de presse du RN du 17 novembre 2026, rapportée par Public Sénat](https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-contient-la-reforme-des-retraites-presentee-par-marine-le-pen)*
+
+**Ce qu'ils proposent.** Le 17 novembre 2026, le RN a présenté sa réforme des retraites, applicable au 1er janvier 2028 : retour à 62 ans, et à 60 ans pour ceux qui ont commencé avant 20 ans. La décote passerait « à 5 % par trimestre manquant, dans la limite de 50 % » (Public Sénat ; AFP, reprise par Brut). Marine Le Pen affirme : « Notre réforme des retraites est pleinement financée ».
+
+**Ce que disent les chiffres.** Aujourd'hui, au régime général, le taux de 50 % « est réduit de 0,625 % par trimestre manquant dans la limite de 20 trimestres » (Service-Public.fr, vérifié le 1er septembre 2026). Cela fait 1,25 % de la pension de base par trimestre manquant, et 25 % au plus. Le RN passe à 5 % par trimestre : quatre fois plus. Le plafond double, de 25 % à 50 %. Le RN chiffre lui-même ce durcissement à 2,7 milliards d'euros d'économies, pour un coût brut de la réforme de 18,6 milliards d'euros en 2032 (Public Sénat). Aucun document écrit de la réforme n'est en ligne sur le site du RN à la date de cette veille : ces chiffres viennent de la conférence de presse.
+
+**Riposte 1 : le chiffre.** *Chaque trimestre manquant coûterait 5 % de la pension au lieu de 1,25 % : quatre fois plus.*
+- **Accroche (0 à 3 s).** Il vous manque des trimestres ? Avec le RN, ça coûtera quatre fois plus cher.
+- **Corps (3 à 24 s).** Aujourd'hui, chaque trimestre manquant retire un petit morceau de votre pension. Le RN veut que ce morceau soit quatre fois plus gros. Et la retenue pourrait aller jusqu'à la moitié de la pension.
+- **Chute (24 à 30 s).** Partir plus tôt, très bien. Mais qui paie ? La question mérite une réponse écrite.
+- **À l'écran.** « Décote × 4 » ; en bas : Public Sénat, 17 novembre 2026 ; Service-Public.fr.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; un relevé de carrière tenu à la main, quatre cases vides entourées.
+
+**Riposte 2 : l'exemple.** *Une pension de 1 000 euros avec un an de cotisation manquant : 950 euros aujourd'hui, 800 euros avec le RN.*
+- **Accroche (0 à 3 s).** Une pension de 1 000 euros. Et une année de cotisation qui manque.
+- **Corps (3 à 24 s).** Aujourd'hui, cette année manquante retire 5 % : il reste 950 euros. Avec la règle du RN, elle retire 20 % : il reste 800 euros. Ce sont 150 euros de moins chaque mois, pour toute la retraite.
+- **Chute (24 à 30 s).** Avant de voter, demandons au RN : qui perd 150 euros par mois pour financer sa réforme ?
+- **À l'écran.** « 950 € → 800 € par mois » ; en bas : Service-Public.fr ; Public Sénat, 17 novembre 2026.
+- **Plan.** Vertical 9:16, plan poitrine, sous-titres ; deux enveloppes de pension posées côte à côte, la seconde plus mince.
+
+**Riposte 3 : la meilleure alternative.** *Une réforme qui ne pénalise pas « les carrières hachées, notamment les femmes », critère posé par Édouard Philippe le 29 septembre 2026 ; le détail de la décote est à vérifier avec le programme.*
+- **Accroche (0 à 3 s).** Une réforme des retraites se juge sur ceux qui ont eu des trous dans leur carrière.
+- **Corps (3 à 24 s).** Chômage, temps partiel, années à élever les enfants : beaucoup n'ont pas tous leurs trimestres. Le RN leur fait payer une partie de sa réforme : 2,7 milliards, selon ses propres chiffres. Une réforme juste ne pénalise pas les carrières hachées.
+- **Chute (24 à 30 s).** Financer nos retraites, oui. Pas sur le dos des carrières incomplètes.
+- **À l'écran.** « Carrières hachées : 2,7 Md€ » ; en bas : Public Sénat, 17 novembre 2026 ; LCP, 29 septembre 2026.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; une frise de carrière avec des trous, dessinée sur une feuille.
+
+**Position d'Édouard.** Le 29 septembre 2026, dans sa vidéo « Retraites : ma réforme pour sauver le système », Édouard Philippe propose « de porter progressivement la durée de cotisation à 45 ans et l'âge de départ à 65 ans », avec une capitalisation en « complément » et un « premier versement » de l'État « sur le plan de chaque jeune travailleur dès son premier emploi ». Il rejette une proposition concurrente parce qu'elle « pénalise les carrières hachées, notamment les femmes » ([LCP, 29 septembre 2026](https://lcp.fr/actualites/retraites-edouard-philippe-veut-porter-l-age-de-depart-a-65-ans-et-la-duree-de)). À vérifier : aucune position publique sur le taux de la décote trouvée pendant cette veille.
+
+**Sources.** [Public Sénat, « Présidentielle 2027 : que contient la réforme des retraites présentée par Marine Le Pen ? », 17 novembre 2026](https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-contient-la-reforme-des-retraites-presentee-par-marine-le-pen) ; [Brut, avec l'AFP, 17 novembre 2026](https://brut-5857f8.brut.media/fr/articles/le-pen-affirme-que-sa-reforme-des-retraites-sera-engagee-des-son-arrivee-au-pouvoir-et-sera-appliquee-au-1er-janvier-2028) ; [Service-Public.fr, décote de la retraite du régime général, vérifié le 1er septembre 2026](https://www.service-public.gouv.fr/particuliers/vosdroits/F21552) ; [LCP, 29 septembre 2026](https://lcp.fr/actualites/retraites-edouard-philippe-veut-porter-l-age-de-depart-a-65-ans-et-la-duree-de)
+
 ### LFI : 1 337 euros par mois garantis à tous, chiffrés pour les seuls jeunes à 9,5 Md€
 
 *LFI · Dépenses sociales · 17 novembre 2026 · [Plan « Abolir la pauvreté », 16 novembre 2026, p. 17 et 18](https://melenchon2027.fr/wp-content/uploads/2026/11/PLAN-ABOLIR-LA-PAUVRETE.pdf)*
