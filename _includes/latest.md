@@ -1,5 +1,38 @@
 Les propositions des programmes du RN et de LFI, du plus récent au plus ancien. Chaque chiffre est vérifié sur le document d'origine. Chaque entrée donne trois ripostes, écrites pour une vidéo verticale de 30 secondes.
 
+### LFI : 3,45 Md€ pour le textile, dont deux tiers hors budget de l'État, et 63 000 euros par emploi promis
+
+*LFI · Industrie · 19 novembre 2026 · [Plan d'investissement productif « Textile », novembre 2026, p. 10 et 22](https://melenchon2027.fr/wp-content/uploads/2026/11/Plan_investisssement_TEXTILE.pdf)*
+
+**Ce qu'ils proposent.** Le plan publié le 13 novembre 2026 vise « à porter à 10 % d'ici 2032 la part des vêtements neufs consommés en France qui sont produits sur le territoire national, contre environ 3 % aujourd'hui » (p. 10). Il promet « au moins 55 000 emplois directs ». « Les investissements totaux, de l'État et du pôle public bancaire, représentent 3,45 milliards d'euros sur le quinquennat » (p. 22).
+
+**Ce que disent les chiffres.** Le tableau de la page 22 donne 240 millions d'euros par an pour l'État. Les 450 millions restants viennent du « pôle public bancaire, redéploiements de la Politique agricole commune et autres acteurs ». Sur cinq ans, l'État paie 1,2 milliard, soit 35 % du plan ; 65 % reposent sur une banque publique à créer et sur des aides agricoles déplacées. Rapporté aux 55 000 emplois promis, le plan coûte près de 63 000 euros par emploi. La part du fabriqué en France doit passer de 3 % à 10 % en cinq ans environ : plus que tripler. Le plan reconnaît lui-même que « les quelques relocalisations post-Covid ont rencontré des difficultés », car « leurs carnets de commandes n'étaient pas suffisamment remplis » (p. 13). Les chiffres de 3 % et de 55 000 emplois sont ceux de LFI : le plan renvoie aux travaux du Secrétariat général à la planification écologique sans les citer précisément.
+
+**Riposte 1 : le chiffre.** *Sur 3,45 milliards annoncés, l'État n'en met que 1,2 : le reste dépend d'une banque à créer et des aides agricoles.*
+- **Accroche (0 à 3 s).** 3,45 milliards pour le textile. Mais qui paie vraiment ?
+- **Corps (3 à 24 s).** Dans le plan de LFI, l'État met 1,2 milliard sur cinq ans. Le reste, deux tiers, viendrait d'une banque publique qui n'existe pas encore. Et d'aides agricoles européennes redéployées.
+- **Chute (24 à 30 s).** Relancer le textile, oui. Avec un financement qui existe, et des agriculteurs consultés.
+- **À l'écran.** « État : 1,2 Md€ sur 3,45 » ; en bas : LFI, plan textile, p. 22.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; trois piles de pièces, deux posées à l'écart.
+
+**Riposte 2 : l'exemple.** *LFI l'écrit elle-même : les relocalisations d'après Covid ont buté sur des carnets de commandes vides.*
+- **Accroche (0 à 3 s).** Une usine de vêtements, ça ne tient pas sans clients.
+- **Corps (3 à 24 s).** Après le Covid, des marques ont relocalisé en France. Le plan de LFI le reconnaît : elles ont manqué de commandes. Sa réponse, c'est d'imposer des critères aux achats publics et aux achats d'entreprises.
+- **Chute (24 à 30 s).** La vraie question : à quel prix les Français achèteront ces vêtements ?
+- **À l'écran.** « Le problème : les commandes » ; en bas : LFI, plan textile, p. 13 et 15.
+- **Plan.** Vertical 9:16, plan poitrine, sous-titres ; un carnet de commandes ouvert, pages blanches.
+
+**Riposte 3 : la meilleure alternative.** *Baisser les impôts de production pour toutes les entreprises, en coupant des aides « saupoudrées », comme le propose Édouard Philippe depuis le 6 novembre 2025 ; le volet textile est à vérifier avec le programme.*
+- **Accroche (0 à 3 s).** Pour produire en France, il faut d'abord que produire en France soit rentable.
+- **Corps (3 à 24 s).** Le plan textile de LFI, c'est 63 000 euros par emploi promis. Édouard Philippe propose autre chose : 50 milliards d'impôts de production en moins chaque année. Ces impôts frappent les usines avant même qu'elles gagnent de l'argent.
+- **Chute (24 à 30 s).** Moins d'aides au cas par cas, moins d'impôts pour tous ceux qui produisent ici.
+- **À l'écran.** « Produire ici : moins d'impôts » ; en bas : Public Sénat, 6 novembre 2025 ; LFI, plan textile, p. 22.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; une étiquette « Fabriqué en France » tenue à la main.
+
+**Position d'Édouard.** Le 6 novembre 2025, Édouard Philippe propose aux entreprises « un deal à 50 milliards d'euros de baisse d'impôts d'un côté et de baisse de dépenses de l'autre », soit « 250 milliards pour un quinquennat ». Il vise les impôts de production, « insensibles à la situation de l'entreprise », et des aides qu'il juge « saupoudrées, complexes, incompréhensibles » ([Public Sénat, 6 novembre 2025](https://www.publicsenat.fr/actualites/economie/entreprises-un-deal-a-250-milliards-deuros-sur-un-quinquennat-que-represente-la-proposition-dedouard-philippe)). À vérifier : aucune position publique sur la filière textile trouvée pendant cette veille.
+
+**Sources.** [LFI, plan d'investissement productif « Textile », novembre 2026, p. 10, 13, 15 et 22](https://melenchon2027.fr/wp-content/uploads/2026/11/Plan_investisssement_TEXTILE.pdf) ; [franceinfo, 12 novembre 2026](https://www.franceinfo.fr/elections/programmes-election-presidentielle-2022/info-franceinfo-lfi-presente-un-plan-d-investissement-de-3-45-milliards-d-euros-pour-le-textile-francais_8279693.html) ; [Public Sénat, 6 novembre 2025](https://www.publicsenat.fr/actualites/economie/entreprises-un-deal-a-250-milliards-deuros-sur-un-quinquennat-que-represente-la-proposition-dedouard-philippe)
+
 ### RN : une décote quatre fois plus lourde pour ceux à qui il manque des trimestres
 
 *RN · Retraites · 18 novembre 2026 · [Conférence de presse du RN du 17 novembre 2026, rapportée par Public Sénat](https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-contient-la-reforme-des-retraites-presentee-par-marine-le-pen)*
