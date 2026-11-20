@@ -1,5 +1,38 @@
 Les propositions des programmes du RN et de LFI, du plus récent au plus ancien. Chaque chiffre est vérifié sur le document d'origine. Chaque entrée donne trois ripostes, écrites pour une vidéo verticale de 30 secondes.
 
+### LFI : 48 Md€ par an pour le logement et le bâtiment, dont 12 seulement payés par l'État
+
+*LFI · Logement · 20 novembre 2026 · [Plan d'investissement productif « BTP/Logement », septembre 2026, p. 8 et 16](https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf)*
+
+**Ce qu'ils proposent.** Le plan publié par LFI en septembre 2026 veut « atteindre 400 000 nouveaux logements abordables par an dans les 5 prochaines années, dont 200 000 logements publics », contre « 100 000 actuellement » (p. 8). Le tableau de la page 16 annonce un « total par an d'investissements supplémentaires de l'État » de « 12 milliards d'euros ». Le plan promet « plus de 300 000 emplois ».
+
+**Ce que disent les chiffres.** Le même tableau a une deuxième colonne : « Pôle public bancaire et autres acteurs ». Elle totalise 36,4 milliards d'euros par an dans le PDF (35,6 milliards dans la version en ligne du plan). Au total, le plan coûte donc environ 48 milliards d'euros par an, soit près de 240 milliards sur cinq ans. L'État en paie un quart ; les trois quarts reposent sur une banque publique que LFI promet de créer. Pour les seuls logements publics neufs, le plan prévoit 17 milliards d'euros par an (3 pour l'État, 14 pour les autres acteurs). Rapporté aux 100 000 logements publics en plus chaque année, cela fait environ 170 000 euros par logement supplémentaire. LFI écrit elle-même que 124 000 logements publics étaient financés en 2016, et moins de 100 000 par an depuis 2020 (p. 8) : l'objectif de 200 000 n'a donc jamais été approché dans les années citées.
+
+**Riposte 1 : le chiffre.** *LFI annonce 12 milliards par an pour l'État, mais son plan logement en coûte 48.*
+- **Accroche (0 à 3 s).** 12 milliards pour le logement. C'est le chiffre affiché par LFI. Le vrai est quatre fois plus gros.
+- **Corps (3 à 24 s).** Dans le tableau de LFI, il y a deux colonnes. La première, l'État, fait 12 milliards par an. La seconde, 36 milliards, serait payée par une banque publique qui n'existe pas encore.
+- **Chute (24 à 30 s).** Construire plus, oui. Mais la question à poser : qui prête ces 36 milliards, et qui rembourse ?
+- **À l'écran.** « 12 Md€ affichés, 48 Md€ réels » ; en bas : LFI, plan BTP/Logement, p. 16.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; une feuille avec deux colonnes, la seconde surlignée.
+
+**Riposte 2 : l'exemple.** *Même en 2016, la meilleure année citée par LFI, la France finançait 124 000 logements publics, loin des 200 000 promis.*
+- **Accroche (0 à 3 s).** 200 000 logements publics par an. La France n'a jamais approché ce chiffre ces dernières années.
+- **Corps (3 à 24 s).** LFI le rappelle elle-même dans son plan. En 2016, on finançait 124 000 logements publics. Depuis 2020, c'est moins de 100 000 par an. Doubler d'un coup demande des terrains, des entreprises et des ouvriers.
+- **Chute (24 à 30 s).** Avant de promettre 200 000, demandons : où, avec qui, et en combien de temps ?
+- **À l'écran.** « 2016 : 124 000. Promis : 200 000 » ; en bas : LFI, plan BTP/Logement, p. 8.
+- **Plan.** Vertical 9:16, plan poitrine, sous-titres ; devant un chantier, un casque de chantier posé sur une palette.
+
+**Riposte 3 : la meilleure alternative.** *Le même objectif de 400 000 logements par an, en levant les freins à la construction, comme le propose Édouard Philippe le 19 novembre 2026 ; le chiffrage est à vérifier avec le programme.*
+- **Accroche (0 à 3 s).** 400 000 logements par an : tout le monde est d'accord. La différence, c'est comment.
+- **Corps (3 à 24 s).** LFI fait reposer l'effort sur l'argent public et une banque publique à créer. Édouard Philippe veut d'abord faciliter la construction : des normes stables et des procédures plus courtes. Et une fiscalité qui rend la location aux familles plus intéressante que la location aux touristes.
+- **Chute (24 à 30 s).** Pour loger les Français, il faut d'abord qu'on puisse construire vite.
+- **À l'écran.** « 400 000 logements : comment ? » ; en bas : Capital, 19 novembre 2026 ; LFI, p. 8.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; une grue en arrière-plan, un trousseau de clés à la main.
+
+**Position d'Édouard.** Le 19 novembre 2026, au « Grand oral de la construction », Édouard Philippe déclare que « le logement est devenu l'ennemi principal du pouvoir d'achat des Français » et veut mettre sur le marché « 400 000 logements par an ». Il veut « bouger sur les normes », « renoncer aux paliers successifs » et créer des « zones d'accélération » pour « simplifier le droit applicable ». Il veut « faire en sorte qu'il soit toujours plus intéressant de loger des familles que des touristes », et propose pour les moins de 35 ans « une exonération des droits de mutation » sur les logements neufs ([Capital, repris par Yahoo Finance, 19 novembre 2026](https://fr.finance.yahoo.com/actualites/moins-35-ans-edouard-philippe-195442939.html)). Le 15 novembre 2026, il propose de « construire plus et louer beaucoup plus », avec « des normes simplifiées et une fiscalité avantageuse » ([Batiweb, avec l'AFP, 16 novembre 2026](https://www.batiweb.com/actualites/construction/edouard-philippe-construction-4-millions-logements-49623)). À vérifier : aucun chiffrage public de son plan logement trouvé pendant cette veille.
+
+**Sources.** [LFI, plan d'investissement productif « BTP/Logement », septembre 2026, p. 8 et 16](https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf) ; [LFI, page du plan BTP et logement](https://melenchon2027.fr/programme/plans-investissement/btp-logement/) ; [Capital, repris par Yahoo Finance, 19 novembre 2026](https://fr.finance.yahoo.com/actualites/moins-35-ans-edouard-philippe-195442939.html) ; [Batiweb, avec l'AFP, 16 novembre 2026](https://www.batiweb.com/actualites/construction/edouard-philippe-construction-4-millions-logements-49623)
+
 ### LFI : 3,45 Md€ pour le textile, dont deux tiers hors budget de l'État, et 63 000 euros par emploi promis
 
 *LFI · Industrie · 19 novembre 2026 · [Plan d'investissement productif « Textile », novembre 2026, p. 10 et 22](https://melenchon2027.fr/wp-content/uploads/2026/11/Plan_investisssement_TEXTILE.pdf)*
