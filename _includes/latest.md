@@ -1,5 +1,33 @@
 Les propositions des programmes du RN et de LFI, du plus récent au plus ancien. Chaque chiffre est vérifié sur le document d'origine. Chaque entrée donne trois ripostes, écrites pour une vidéo verticale de 30 secondes.
 
+### LFI : 15 Md€ attendus de la taxe Zucman, une recette qui dépend d'une dizaine de très grandes fortunes
+
+*LFI · Impôts · 23 novembre 2026 · [Contre-budget de LFI, 14 octobre 2026, p. 13 et 14 ; L'Avenir en commun, partie 2, chapitre 2](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf)*
+
+**Ce qu'ils proposent.** Le contre-budget de LFI du 14 octobre 2026 prévoit « l'instauration de la taxe Zucman pour les personnes possédant plus de 100 millions d'euros de patrimoine (15 milliards d'euros de recettes) » (p. 13 et 14). Le programme publié le 6 novembre 2026 veut « introduire une garantie d'impôt de 2 % sur le patrimoine des centimillionaires, dite « taxe Zucman » ».
+
+**Ce que disent les chiffres.** Le rapport de la commission des finances du Sénat du 4 juin 2025 sur ce même impôt plancher de 2 % donne la base du calcul. L'économiste qui a conçu la taxe estime qu'elle toucherait « entre 1 600 et 1 800 foyers fiscaux » et rapporterait « entre 15 et 25 milliards d'euros » (p. 41). LFI retient donc le bas de cette fourchette. Rapportés à 1 800 foyers, 15 milliards font environ 8 millions d'euros par foyer et par an, en moyenne. Le calcul part du patrimoine des 500 premières fortunes du classement de Challenges, soit 1 228 milliards d'euros en 2024 (p. 41). Or ces fortunes sont « extrêmement concentrées (70 % dans le top 10) » (p. 42). Le rapport en conclut que le rendement « serait très sensible au départ d'un ou deux seulement de ces contribuables » (p. 42). Il relève aussi que le calcul ne déduit pas l'impôt sur les sociétés déjà payé par les entreprises de ces contribuables, ce qui réduirait la recette (p. 9). Le contre-budget ne dit rien de ces deux risques.
+
+**Riposte 1 : le chiffre.** *70 % du patrimoine visé est entre les mains de dix fortunes.*
+- **Accroche (0 à 3 s).** 15 milliards d'euros par an. Et l'essentiel repose sur dix familles.
+- **Corps (3 à 24 s).** LFI veut taxer à 2 % les patrimoines de plus de 100 millions. Le calcul part des 500 plus grandes fortunes. Selon le Sénat, 70 % de leur patrimoine est concentré dans les dix premières.
+- **Chute (24 à 30 s).** Une recette qui dépend de dix contribuables, c'est fragile. La question à poser : que reste-t-il si deux d'entre eux partent ?
+- **À l'écran.** « 15 Md€, 70 % sur dix fortunes » ; en bas : Sénat, rapport n° 689, 4 juin 2025, p. 42.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; dix jetons empilés au centre, quelques jetons épars autour.
+
+**Riposte 2 : l'exemple.** *En 2012, le Conseil constitutionnel n'a validé un impôt sur la fortune à 1,8 % qu'avec un plafonnement.*
+- **Accroche (0 à 3 s).** Un impôt de 2 % sur la fortune. Le juge a déjà posé ses conditions.
+- **Corps (3 à 24 s).** En 2011, le Conseil constitutionnel a admis 0,5 % sans plafond. En 2012, il a validé 1,8 % seulement avec un plafonnement sur les revenus. LFI annonce 2 %, sans écrire comment ce plafond serait réglé.
+- **Chute (24 à 30 s).** Avant de compter 15 milliards, demandons : le texte passera-t-il le Conseil constitutionnel ?
+- **À l'écran.** « 2 %, et le Conseil constitutionnel ? » ; en bas : Sénat, rapport n° 689, p. 8.
+- **Plan.** Vertical 9:16, plan poitrine, sous-titres ; devant une façade officielle, un texte de loi à la main.
+
+**Riposte 3 : la meilleure alternative.** *À vérifier avec le programme.*
+
+**Position d'Édouard.** À vérifier : aucune déclaration publique d'Édouard Philippe sur la taxe Zucman trouvée pendant cette veille.
+
+**Sources.** [LFI, contre-budget du 14 octobre 2026, p. 13 et 14](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf) ; [LFI, L'Avenir en commun, partie 2, chapitre 2, 6 novembre 2026](https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2/) ; [Sénat, commission des finances, rapport n° 689 sur l'impôt plancher de 2 % sur le patrimoine des ultrariches, 4 juin 2025, p. 8, 9, 41 et 42](https://www.senat.fr/rap/l24-689/l24-6891.pdf)
+
 ### LFI : 48 Md€ par an pour le logement et le bâtiment, dont 12 seulement payés par l'État
 
 *LFI · Logement · 20 novembre 2026 · [Plan d'investissement productif « BTP/Logement », septembre 2026, p. 8 et 16](https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf)*
