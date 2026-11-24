@@ -1,5 +1,33 @@
 Les propositions des programmes du RN et de LFI, du plus récent au plus ancien. Chaque chiffre est vérifié sur le document d'origine. Chaque entrée donne trois ripostes, écrites pour une vidéo verticale de 30 secondes.
 
+### LFI : 1 million de voitures électriques louées par un service public en trois ans, avec 1 Md€ par an pour les acheter
+
+*LFI · Industrie · 24 novembre 2026 · [Plan d'investissement productif « Automobile », 14 octobre 2026, p. 12, 14, 15 et 23](https://melenchon2027.fr/wp-content/uploads/2026/10/PLAN-AUTO_Vf_ST.pdf)*
+
+**Ce qu'ils proposent.** Le plan automobile publié par LFI le 14 octobre 2026 crée un « service public de la location abordable » qui « visera un objectif de 1,4 million de véhicules légers et abordables loués d'ici 2032 » : « 1 million de véhicules commandés sur 3 ans, puis 200 000 voitures par an sur les deux dernières années du quinquennat » (p. 15). L'achat sera garanti par la commande publique, avec des critères stricts de « lieu français d'assemblage » (p. 14). Le plan vise des voitures électriques légères « à partir de 10 000 euros » (p. 12).
+
+**Ce que disent les chiffres.** Le tableau de la page 23 donne à ce parc 300 millions d'euros par an de l'État et 700 millions d'euros par an du « pôle public bancaire et autres acteurs », soit 1 milliard d'euros par an. Sur les trois premières années, cela fait 3 milliards d'euros. Or 1 million de voitures à 10 000 euros, le prix plancher visé par LFI, coûtent au moins 10 milliards d'euros à l'achat. Sur le quinquennat, 1,4 million de voitures coûtent au moins 14 milliards, pour 5 milliards inscrits. Le plan ne donne ni le loyer demandé aux ménages, ni le prix d'achat des voitures. Côté production, LFI écrit elle-même que la France a produit 300 000 voitures électriques en 2025 (p. 5). Le parc public en demanderait environ 333 000 par an assemblées en France, pendant trois ans. Pour comparer, le leasing social de l'État a atteint 50 000 voitures attribuées dans son édition 2025, et un peu plus de 100 000 ménages depuis son lancement en 2024 ; 34 % de ces voitures étaient fabriquées en France (ministère de la Transition écologique, 12 janvier 2026).
+
+**Riposte 1 : le chiffre.** *Pour acheter 1 million de voitures, il faut au moins 10 milliards ; le plan en inscrit 3.*
+- **Accroche (0 à 3 s).** 1 million de voitures louées par un service public en trois ans. Mais qui paie l'achat ?
+- **Corps (3 à 24 s).** LFI vise des voitures électriques à partir de 10 000 euros. 1 million de voitures, c'est donc au moins 10 milliards. Son tableau prévoit 1 milliard par an pour ce parc, soit 3 milliards en trois ans.
+- **Chute (24 à 30 s).** Une voiture abordable, c'est un bon objectif. La question à poser : qui finance les 7 milliards manquants ?
+- **À l'écran.** « 10 Md€ à payer, 3 inscrits » ; en bas : LFI, plan Automobile, p. 15 et 23.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; une clé de voiture posée sur une calculatrice.
+
+**Riposte 2 : l'exemple.** *Le leasing social a loué 50 000 voitures en 2025 ; LFI en veut plus de 300 000 par an, toutes assemblées en France.*
+- **Accroche (0 à 3 s).** 50 000 voitures en 2025. LFI promet six fois plus chaque année.
+- **Corps (3 à 24 s).** Le leasing social de l'État a attribué 50 000 voitures en 2025. Un tiers seulement étaient fabriquées en France. LFI veut 1 million de voitures en trois ans, assemblées en France, alors que la France n'a produit que 300 000 voitures électriques en 2025.
+- **Chute (24 à 30 s).** Avant de commander, demandons : quelles usines, et à quel prix ?
+- **À l'écran.** « 2025 : 50 000. Promis : 333 000 par an » ; en bas : ministère de la Transition écologique, 12 janvier 2026 ; LFI, p. 5.
+- **Plan.** Vertical 9:16, plan poitrine, sous-titres ; devant un parking de voitures électriques en charge.
+
+**Riposte 3 : la meilleure alternative.** *À vérifier avec le programme.*
+
+**Position d'Édouard.** À vérifier : aucune déclaration publique d'Édouard Philippe sur la location publique de voitures électriques ou le leasing social trouvée pendant cette veille.
+
+**Sources.** [LFI, plan d'investissement productif « Automobile », 14 octobre 2026, p. 5, 12, 14, 15 et 23](https://melenchon2027.fr/wp-content/uploads/2026/10/PLAN-AUTO_Vf_ST.pdf) ; [LFI, page du plan Automobile](https://melenchon2027.fr/programme/plans-investissement/automobile/) ; [Ministère de la Transition écologique, communiqué sur la deuxième édition du leasing social, 12 janvier 2026](https://www.ecologie.gouv.fr/presse/50-000-vehicules-attribues-deuxieme-edition-du-leasing-social-plebiscitee-symbole-dune)
+
 ### LFI : 15 Md€ attendus de la taxe Zucman, une recette qui dépend d'une dizaine de très grandes fortunes
 
 *LFI · Impôts · 23 novembre 2026 · [Contre-budget de LFI, 14 octobre 2026, p. 13 et 14 ; L'Avenir en commun, partie 2, chapitre 2](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf)*
