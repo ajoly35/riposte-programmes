@@ -1,5 +1,33 @@
 Les propositions des programmes du RN et de LFI, du plus récent au plus ancien. Chaque chiffre est vérifié sur le document d'origine. Chaque entrée donne trois ripostes, écrites pour une vidéo verticale de 30 secondes.
 
+### LFI : 500 000 places pour les tout-petits et des crèches publiques gratuites, sans coût écrit
+
+*LFI · Dépenses sociales · 25 novembre 2026 · [Plan « Comment nous allons garantir les droits des enfants », 19 novembre 2026, p. 26](https://melenchon2027.fr/wp-content/uploads/2026/11/PLAN-ENFANCE_ST.pdf)*
+
+**Ce qu'ils proposent.** Le plan enfance publié par LFI le 19 novembre 2026 veut « garantir la gratuité des crèches publiques » et « planifier l'ouverture progressive de 500 000 places pour l'accueil des jeunes enfants (crèches publiques, associatives, assistantes maternelles, jardins d'enfants) » (p. 26). Le plan ne donne ni coût, ni calendrier, ni financement.
+
+**Ce que disent les chiffres.** Fin 2022, la France comptait 1,31 million de places d'accueil formel (Cour des comptes, décembre 2024, p. 11). 500 000 places, c'est 38 % de plus. En juin 2023, le gouvernement a fixé un objectif de 200 000 places d'ici 2030. La Cour en chiffre le coût public à environ 3 milliards d'euros par an (p. 110, note 168). À coût égal par place, 500 000 places coûteraient donc environ 7,5 milliards d'euros par an : c'est une estimation proportionnelle, le plan n'en donne aucune. La gratuité s'ajoute. En 2022, les familles ont versé 1,25 milliard d'euros de participations aux crèches financées par la prestation de service unique de la Caf (p. 101). Le plan ne dit pas quelle part deviendrait gratuite. Le contre-budget de LFI du 14 octobre 2026 ne contient aucune ligne sur les crèches. Reste le rythme. L'objectif de 2023 prévoyait 7 000 places nettes de crèche de plus par an. Le solde réel a été de moins de 2 000 par an entre 2016 et 2021, puis de moins 156 places en 2023 (p. 81 et 82). Le nombre d'assistantes maternelles baisse en moyenne de 10 000 par an depuis dix ans (p. 82). Les acteurs de terrain rencontrés par la Cour jugent déjà « irréaliste » l'objectif de 200 000 places (p. 82).
+
+**Riposte 1 : le chiffre.** *200 000 places coûtent 3 milliards par an selon la Cour des comptes ; LFI en promet 500 000 sans prix.*
+- **Accroche (0 à 3 s).** 500 000 places pour les tout-petits. Combien ça coûte ? Le plan ne le dit pas.
+- **Corps (3 à 24 s).** La Cour des comptes a chiffré 200 000 places à 3 milliards d'euros par an. LFI en promet deux fois et demie plus, avec des crèches publiques gratuites. Son contre-budget n'a aucune ligne pour les crèches.
+- **Chute (24 à 30 s).** Plus de places, les parents en ont besoin. La question à poser : quel coût, et qui paie ?
+- **À l'écran.** « 500 000 places. Coût : non écrit » ; en bas : LFI, plan enfance, p. 26 ; Cour des comptes, décembre 2024, p. 110.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; un hochet posé sur une calculatrice.
+
+**Riposte 2 : l'exemple.** *L'objectif de 2023 visait 7 000 places de crèche en plus par an ; en 2023, il y en a eu 156 de moins.*
+- **Accroche (0 à 3 s).** En 2023, la France a perdu 156 places de crèche.
+- **Corps (3 à 24 s).** L'objectif était d'en gagner 7 000 par an. Et il faut des adultes pour garder les enfants : les assistantes maternelles sont 10 000 de moins chaque année. LFI promet pourtant 500 000 places.
+- **Chute (24 à 30 s).** Avant de promettre des places, demandons : qui va s'occuper des enfants ?
+- **À l'écran.** « 2023 : moins 156 places » ; en bas : Cour des comptes, décembre 2024, p. 81 et 82.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; devant une rangée de poussettes vides.
+
+**Riposte 3 : la meilleure alternative.** *À vérifier avec le programme.*
+
+**Position d'Édouard.** À vérifier : aucune déclaration publique d'Édouard Philippe sur les places de crèche trouvée pendant cette veille. Sur la politique familiale, il propose « une allocation familiale unique de 350 euros par mois dès le premier enfant » ([Public Sénat, 9 octobre 2026](https://www.publicsenat.fr/actualites/politique/politique-familiale-allocations-creches-que-proposent-les-candidats-a-la-presidentielle)).
+
+**Sources.** [LFI, plan « Comment nous allons garantir les droits des enfants », 19 novembre 2026, p. 26](https://melenchon2027.fr/wp-content/uploads/2026/11/PLAN-ENFANCE_ST.pdf) ; [LFI, contre-budget, 14 octobre 2026](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf) ; [Cour des comptes, La politique d'accueil du jeune enfant, décembre 2024, p. 11, 81, 82, 101 et 110](https://www.ccomptes.fr/sites/default/files/2024-12/20241212-La-politique-daccueil-du-jeune-enfant.pdf) ; [Public Sénat, 9 octobre 2026](https://www.publicsenat.fr/actualites/politique/politique-familiale-allocations-creches-que-proposent-les-candidats-a-la-presidentielle)
+
 ### LFI : 1 million de voitures électriques louées par un service public en trois ans, avec 1 Md€ par an pour les acheter
 
 *LFI · Industrie · 24 novembre 2026 · [Plan d'investissement productif « Automobile », 14 octobre 2026, p. 12, 14, 15 et 23](https://melenchon2027.fr/wp-content/uploads/2026/10/PLAN-AUTO_Vf_ST.pdf)*
