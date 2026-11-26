@@ -1,5 +1,38 @@
 Les propositions des programmes du RN et de LFI, du plus récent au plus ancien. Chaque chiffre est vérifié sur le document d'origine. Chaque entrée donne trois ripostes, écrites pour une vidéo verticale de 30 secondes.
 
+### LFI : le carburant bloqué à 1,70 euro par décret, sous le prix de gros du gazole une fois les taxes ajoutées
+
+*LFI · Prix de l'énergie · 26 novembre 2026 · [Contre-budget de LFI, 14 octobre 2026, repris dans le dossier de presse budget du 17 novembre 2026, p. 9](https://melenchon2027.fr/wp-content/uploads/2026/11/DOSSIER-DE-PRESSE-BUDGET_VF_ST.pdf)*
+
+**Ce qu'ils proposent.** Le dossier de presse budget publié par LFI le 17 novembre 2026 reprend son contre-budget : « Dans le cadre de l'état d'urgence sociale, un décret de blocage des prix du carburant sera pris pour ramener le prix à la pompe à 1,70 euro par litre » (p. 9). Le plan d'urgence énergie du groupe LFI, en mars 2026, présentait ce blocage comme une mesure « neutre pour les finances publiques » (p. 4). Le contre-budget n'inscrit aucune ligne pour baisser les taxes ou compenser les vendeurs.
+
+**Ce que disent les chiffres.** Le 20 novembre 2026, le gazole coûtait en moyenne 2,10 euros le litre à la pompe, dont 95,7 centimes de taxes (ministère de la Transition écologique, p. 5 et 6). Le prix avant taxes se décompose ainsi : 97,7 centimes pour le cours international du gazole, 16,4 centimes pour le transport et la distribution (p. 7). Avec les taxes actuelles, un litre vendu 1,70 euro ne laisse qu'environ 81 centimes avant taxes. C'est moins que le seul cours international. Même sans aucun frais de transport ni de marge, le litre de gazole reviendrait à environ 1,90 euro, taxes comprises (calcul à partir des chiffres du ministère, TVA à 20 %). Pour l'essence SP95-E10, il resterait environ 11 centimes par litre pour le transport et la distribution, contre 32,1 aujourd'hui. En mars, LFI justifiait le blocage par des stocks « achetés avant la flambée des prix » (p. 5). Depuis mai 2026, le prix moyen mensuel du gazole n'est jamais descendu sous 1,94 euro (p. 6). Enfin, la France n'a pas un gazole cher avant taxes. Le 13 novembre 2026, il valait 1,16 euro hors taxes, contre 1,27 euro en moyenne dans la zone euro. En Espagne, il valait 1,34 euro hors taxes, mais 1,84 euro à la pompe, contre 2,12 euros en France (p. 9).
+
+**Riposte 1 : le chiffre.** *Avec les taxes actuelles, le litre de gazole coûte 1,90 euro avant toute marge ; LFI veut l'imposer à 1,70.*
+- **Accroche (0 à 3 s).** Le gazole à 1,70 euro par décret. Mais à ce prix, qui vend à perte ?
+- **Corps (3 à 24 s).** Le 20 novembre, le gazole coûtait cher sur les marchés mondiaux. Ajoutez les taxes d'aujourd'hui, sans un centime de transport ni de marge. Le litre revient déjà à 1,90 euro. À 1,70, chaque station perd de l'argent sur chaque litre.
+- **Chute (24 à 30 s).** Faire baisser le prix, oui. La question à poser : qui paie la différence, et les stations restent-elles ouvertes ?
+- **À l'écran.** « Gazole : 1,90 € avant toute marge » ; en bas : ministère de la Transition écologique, 20 novembre 2026, p. 5 à 7.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; devant une pompe à gazole, le pistolet à la main.
+
+**Riposte 2 : l'exemple.** *Avant taxes, le gazole espagnol est plus cher que le nôtre ; à la pompe, il coûte près de 29 centimes de moins.*
+- **Accroche (0 à 3 s).** En Espagne, le gazole coûte 1,84 euro. En France, 2,12.
+- **Corps (3 à 24 s).** Pourtant, avant taxes, le gazole espagnol est plus cher que le nôtre. La différence vient des taxes, pas des marges. Avant taxes, notre gazole est même moins cher que la moyenne de la zone euro.
+- **Chute (24 à 30 s).** Avant de bloquer les prix, demandons : sur quelle part du prix veut-on vraiment agir ?
+- **À l'écran.** « Avant taxes : moins cher qu'en Espagne » ; en bas : Commission européenne, bulletin pétrolier, 13 novembre 2026.
+- **Plan.** Vertical 9:16, plan poitrine, sous-titres ; deux tickets de station côte à côte, l'un espagnol, l'autre français.
+
+**Riposte 3 : la meilleure alternative.** *Aider d'abord ceux qui sont le plus exposés, plutôt que bloquer tous les prix, comme l'évoque Édouard Philippe le 22 septembre 2026 ; le montant est à vérifier avec le programme.*
+- **Accroche (0 à 3 s).** Bloquer le prix pour tout le monde, ou aider ceux qui en ont besoin ?
+- **Corps (3 à 24 s).** Un blocage aide de la même façon celui qui roule peu et celui qui roule pour travailler. Et il fait peser la perte sur les stations. Édouard Philippe évoque un doublement des aides ciblées, payé par des économies sur les dépenses de l'État.
+- **Chute (24 à 30 s).** Aider vite ceux qui roulent pour travailler, sans fermer les stations.
+- **À l'écran.** « Aider ceux qui roulent pour travailler » ; en bas : AFP, 22 septembre 2026.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; à côté d'une voiture de service, une sacoche de travail sur le siège.
+
+**Position d'Édouard.** Selon l'AFP le 22 septembre 2026, Édouard Philippe défend, comme Gabriel Attal, des dispositifs « limités aux ménages ou secteurs les plus exposés ». Il « a seulement avancé un possible « doublement » des aides », financé selon lui par « des économies sur les dépenses de l'État » ([AFP, reprise par Connaissance des Énergies, 22 septembre 2026](https://www.connaissancedesenergies.org/afp/la-campagne-dattal-et-de-philippe-percutee-par-la-crise-des-carburants-260922)). À vérifier : aucune déclaration publique d'Édouard Philippe sur le blocage des prix à la pompe trouvée pendant cette veille.
+
+**Sources.** [LFI, dossier de presse budget, 17 novembre 2026, p. 9](https://melenchon2027.fr/wp-content/uploads/2026/11/DOSSIER-DE-PRESSE-BUDGET_VF_ST.pdf) ; [LFI, contre-budget, 14 octobre 2026, p. 9](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf) ; [Groupe LFI, plan d'urgence « Flambée des prix de l'énergie », mars 2026, p. 4 et 5](https://lafranceinsoumise.fr/wp-content/uploads/2026/03/1.-LIVRET-PlanUrgenceEnergie-A-Site.pdf) ; [Ministère de la Transition écologique, « Cours, prix et marges des produits pétroliers », 20 novembre 2026, p. 5, 6, 7 et 9](https://www.ecologie.gouv.fr/sites/default/files/documents/NPG-2026.11.20.pdf) ; [AFP, reprise par Connaissance des Énergies, 22 septembre 2026](https://www.connaissancedesenergies.org/afp/la-campagne-dattal-et-de-philippe-percutee-par-la-crise-des-carburants-260922)
+
 ### LFI : 500 000 places pour les tout-petits et des crèches publiques gratuites, sans coût écrit
 
 *LFI · Dépenses sociales · 25 novembre 2026 · [Plan « Comment nous allons garantir les droits des enfants », 19 novembre 2026, p. 26](https://melenchon2027.fr/wp-content/uploads/2026/11/PLAN-ENFANCE_ST.pdf)*
