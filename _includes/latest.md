@@ -1,5 +1,38 @@
 Les propositions des programmes du RN et de LFI, du plus récent au plus ancien. Chaque chiffre est vérifié sur le document d'origine. Chaque entrée donne trois ripostes, écrites pour une vidéo verticale de 30 secondes.
 
+### LFI : une prime d'au moins 10 % du salaire si l'employeur ne prouve pas l'égalité, près de trois fois l'écart mesuré à poste égal
+
+*LFI · Salaires · 27 novembre 2026 · [Plan « Comment nous allons construire une société féministe et émancipatrice », mis en ligne le 25 novembre 2026, p. 23](https://melenchon2027.fr/wp-content/uploads/2026/11/PLAN-CONSTRUIRE-UNE-SOCIETE-FEMINISTE-ET-EMANCIPATRICE.pdf)*
+
+**Ce qu'ils proposent.** Le plan féministe de LFI, mis en ligne le 25 novembre 2026, prévoit « dans toutes les entreprises une commission de contrôle », devant laquelle « l'employeur devra prouver l'égalité salariale ». « Si l'employeur est en incapacité de la prouver, il devra verser aux salariées une prime compensatoire d'un montant supérieur ou égal à l'inégalité constatée, d'au moins 10 % du salaire brut » (p. 23). Le plan ne donne ni coût, ni seuil de taille d'entreprise.
+
+**Ce que disent les chiffres.** Le plan part d'un écart de 22 % dans le privé (p. 23). L'Insee mesure bien 21,8 % en 2024 sur le revenu salarial annuel. Mais cet écart compte aussi le temps de travail : les femmes travaillent 9,1 % de moins sur l'année. À temps de travail identique, l'écart tombe à 14,0 %. Dans le même poste et le même établissement, il est estimé à 3,6 % en 2024 (Insee Focus n° 377, 26 février 2026 ; estimation sur une partie du privé). Une prime plancher de 10 % vaut donc près de trois fois l'écart moyen mesuré à poste égal. Aujourd'hui, l'index de l'égalité professionnelle concerne les entreprises d'au moins 50 salariés. Une note sous 75 points pendant trois années de suite peut coûter jusqu'à 1 % des rémunérations versées (service-public.gouv.fr). Le projet de loi présenté le 10 septembre 2026 remplace cet index par des écarts calculés par catégorie d'emplois, pour les entreprises de plus de 50 salariés. La directive européenne demande de corriger les écarts de plus de 5 % dans une même catégorie (Public Sénat, 10 septembre 2026). LFI, elle, vise toutes les entreprises, y compris les plus petites.
+
+**Riposte 1 : le chiffre.** *À poste égal, dans la même entreprise, l'écart moyen est de 3,6 % ; LFI fixe une prime d'au moins 10 %.*
+- **Accroche (0 à 3 s).** 22 % d'écart de salaire entre femmes et hommes. Ce chiffre dit quoi, au juste ?
+- **Corps (3 à 24 s).** Il mélange le temps partiel, les métiers et les salaires. Dans le même poste et la même entreprise, l'Insee mesure 3,6 %. C'est trop, et c'est injustifié. Mais LFI impose une prime d'au moins 10 % à toute entreprise qui ne prouve pas l'égalité.
+- **Chute (24 à 30 s).** Corriger l'écart réel, oui. La question à poser : pourquoi une prime trois fois plus forte que l'écart ?
+- **À l'écran.** « À poste égal : 3,6 % d'écart » ; en bas : Insee Focus n° 377, 26 février 2026.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; deux fiches de paie posées côte à côte sur une table.
+
+**Riposte 2 : l'exemple.** *Aujourd'hui, l'entreprise qui reste sous 75 points trois ans de suite risque au plus 1 % de ses salaires.*
+- **Accroche (0 à 3 s).** L'égalité salariale, la loi la contrôle déjà. Voici comment.
+- **Corps (3 à 24 s).** Depuis 2018, les entreprises d'au moins 50 salariés publient un index de l'égalité. Sous 75 points trois ans de suite, la sanction peut atteindre 1 % des salaires versés. Un projet de loi de septembre 2026 veut des écarts publiés par catégorie d'emplois.
+- **Chute (24 à 30 s).** Avant d'inventer une prime, demandons : comment faire appliquer vraiment les règles qui existent ?
+- **À l'écran.** « Sanction actuelle : jusqu'à 1 % » ; en bas : service-public.gouv.fr ; Public Sénat, 10 septembre 2026.
+- **Plan.** Vertical 9:16, plan poitrine, sous-titres ; dans un bureau, un tableau d'affichage avec l'index de l'entreprise.
+
+**Riposte 3 : la meilleure alternative.** *Mesurer l'écart poste par poste et faire corriger chaque écart non justifié ; la proposition d'Édouard Philippe est à vérifier avec le programme.*
+- **Accroche (0 à 3 s).** Une femme payée moins pour le même travail : comment on règle ça, concrètement ?
+- **Corps (3 à 24 s).** Une prime forfaitaire paie pareil un écart de 1 % et un écart de 9 %. Ce qui marche, c'est de comparer poste par poste. Puis de corriger chaque écart sans raison, à la bonne hauteur.
+- **Chute (24 à 30 s).** Le bon salaire pour le même travail, pas une prime au hasard. Notre proposition : à vérifier avec le programme.
+- **À l'écran.** « Même travail, même salaire » ; en bas : Insee Focus n° 377, 26 février 2026.
+- **Plan.** Vertical 9:16, plan poitrine, regard caméra, sous-titres ; dans un atelier, deux blouses de travail identiques accrochées.
+
+**Position d'Édouard.** À vérifier : aucune déclaration publique d'Édouard Philippe sur l'égalité salariale ou sur cette prime trouvée pendant cette veille.
+
+**Sources.** [LFI, plan « Comment nous allons construire une société féministe et émancipatrice », mis en ligne le 25 novembre 2026, p. 9 et 23](https://melenchon2027.fr/wp-content/uploads/2026/11/PLAN-CONSTRUIRE-UNE-SOCIETE-FEMINISTE-ET-EMANCIPATRICE.pdf) ; [Insee Focus n° 377, « Écart de salaire entre femmes et hommes en 2024 », 26 février 2026](https://insee.fr/fr/statistiques/8743657) ; [Service-public.gouv.fr, « Index de l'égalité professionnelle », vérifié le 10 juillet 2025](https://entreprendre.service-public.gouv.fr/vosdroits/F35103) ; [Public Sénat, « Transparence salariale : que contient le nouveau projet de loi », 10 septembre 2026](https://www.publicsenat.fr/actualites/emploi/transparence-salariale-que-contient-le-nouveau-projet-de-loi-sur-les-obligations-des-entreprises-en-matiere-degalite-hommes-femmes)
+
 ### LFI : le carburant bloqué à 1,70 euro par décret, sous le prix de gros du gazole une fois les taxes ajoutées
 
 *LFI · Prix de l'énergie · 26 novembre 2026 · [Contre-budget de LFI, 14 octobre 2026, repris dans le dossier de presse budget du 17 novembre 2026, p. 9](https://melenchon2027.fr/wp-content/uploads/2026/11/DOSSIER-DE-PRESSE-BUDGET_VF_ST.pdf)*
